@@ -1,0 +1,1 @@
+# Enums, shared constants placeholder

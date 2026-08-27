@@ -1,0 +1,1 @@
+# Pydantic goal schemas
